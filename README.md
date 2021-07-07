@@ -1,10 +1,10 @@
-# 📌DARKSSH new update v2
+# 📌Mihiranga new update v2
 
 * UPDATE 01/06/2021
 
 *  Have Telegram ssh create bot
 
-# 📌DARKSSH MANAGER
+# 📌Mihiranga 
 
 * යාවත්කාලීන කිරීම 11/05/2021 - සම්පූර්ණ කරන ලද ව්‍යාපෘතිය
 
@@ -24,21 +24,21 @@
 ## :book: Installation
 ```
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/sbatrow/DARKSSH-MANAGER/master/Plus; chmod 777 Plus; ./Plus
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/sbatrow/Mihiranga/master/Plus; chmod 777 Plus; ./Plus
 
 ```
 
-# 🔥⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡️🔥
+#🔥🇱🇰Mihiranga🇱🇰🔥
 
 -------------------------------------------------------------------------------
 
-<img align="right" src="https://github.com/sbatrow/DARKSSH-MANAGER/blob/main/image/ssh bot.jpg" width='300'/>
+<img align="right" src="https://github.com/sbatrow/Mihiranga/blob/main/image/ssh bot.jpg" width='300'/>
 
-![logo](https://github.com/sbatrow/DARKSSH-MANAGER/blob/main/image/DARKSSH.jpg)
+![logo](https://i.hizliresim.com/152nwlw.jpg)
 
-[![Stars](https://img.shields.io/github/stars/sbatrow/DARKSSH-MANAGER?style=flat-square&color=yellow)](https://github.com/sbatrow/DARKSSH-MANAGER/stargazers)
-[![Forks](https://img.shields.io/github/forks/sbatrow/DARKSSH-MANAGER?style=flat-square&color=orange)](https://github.com/sbatrow/DARKSSH-MANAGER/fork)
-[![Size](https://img.shields.io/github/repo-size/sbatrow/DARKSSH-MANAGER?style=flat-square&color=green)](https://github.com/sbatrow/DARKSSH-MANAGER/)   
+[![Stars](https://img.shields.io/github/stars/sbatrow/Mihiranga?style=flat-square&color=yellow)](https://github.com/sbatrow/DARKSSH-MANAGER/stargazers)
+[![Forks](https://img.shields.io/github/forks/sbatrow/Mihiranga?style=flat-square&color=orange)](https://github.com/sbatrow/mihiranga/fork)
+[![Size](https://img.shields.io/github/repo-size/sbatrow/Mihiranga?style=flat-square&color=green)](https://github.com/sbatrow/Mihiranga/)   
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/sbatrow/DARKSSH-MANAGER/graphs/commit-activity)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sbatrow/DARKSSH-MANAGER)   
@@ -61,9 +61,9 @@ SCRIPT DARKSSH MANAGER යනු සුදුසු අංග සහ මෙව�
                  
                                                           
                    @ Auto genarate                                                                                  @ Banner
-<img align="right" src="https://github.com/sbatrow/DARKSSH-MANAGER/blob/main/image/banner.jpg" width='300'/>
+<img align="right" src="https://github.com/sbatrow/Mihiranga/blob/main/image/banner.jpg" width='300'/>
   
-![logo](https://github.com/sbatrow/DARKSSH-MANAGER/blob/main/image/outo.jpg)                 
+![logo]https://i.hizliresim.com/152nwlw.jpg)                 
          
 **Manager Script**
 
@@ -87,7 +87,7 @@ SCRIPT DARKSSH MANAGER යනු සුදුසු අංග සහ මෙව�
 
 # 🏃‍contact me
 
-3. [🔥⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡️🔥](https://t.me/sibatrow) 
+3. [🔥🇱🇰Mihiranga🇱🇰🔥](https://t.me/Mihirangabro) 
 
 ```
 * NO MINING!
@@ -98,9 +98,9 @@ SCRIPT DARKSSH MANAGER යනු සුදුසු අංග සහ මෙව�
 ```
 
 ```
-☆ [🔥⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡️🔥](https://t.me/sibatrow) ☆
+☆ [🔥🇱🇰Mihiranga🇱🇰🔥](https://t.me/Mihirangabro) ☆
 ```
 
 [![License](https://www.gnu.org/graphics/gplv3-or-later.png)](LICENSE)
 
-**By: Batrow tech 🇱🇰 **
+**By: Datamaruwo team🦊🇱🇰 **
